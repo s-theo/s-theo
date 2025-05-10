@@ -36,6 +36,6 @@
 
 - :pushpin: [Totoro Cloud - 龙猫云](https://s.theojs.cn/totoro)｜[青云梯](https://s.theojs.cn/qyt)｜[FlyingBird](https://s.theojs.cn/flyingbird)｜[TNT Cloud](https://s.theojs.cn/tnt)｜[飞兔云](https://s.theojs.cn/feitu)｜[奈飞小铺](https://s.theojs.cn/ihezu)｜[银河录像局](https://s.theojs.cn/yh)｜[蜜糖商店](https://s.theojs.cn/metshop)｜[SMS-Activate](https://s.theojs.cn/sms)
 
-**赞 助**
+**Sponsors Me**
 
 <img src="https://i.theojs.cn/sponsor.webp" alt='Sponsors'></a>
