@@ -1,15 +1,17 @@
 ### Hi there, I'm Theo 👋
+
 ```
 吾志所向，一往无前。
 ```
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-**About Me:** 
-|   主&emsp;&emsp;页   | <https://theojs.cn>                                      |
+**About Me:**
+| 主&emsp;&emsp;页 | <https://theojs.cn> |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;&emsp;客** | **<https://doc.theojs.cn>**                            |
-| **玄学宝典** | **<https://xx.theojs.cn>**          |
-| **Lumen** | **<https://lumen.theojs.cn>**          |
+| **博&emsp;&emsp;客** | **<https://doc.theojs.cn>** |
+| **玄学宝典** | **<https://xx.theojs.cn>** |
+| **Lumen** | **<https://lumen.theojs.cn>** |
 
 **Languages:**
 
@@ -33,8 +35,9 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Theo-Messi&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Messi&layout=compact)
 
-
-- :pushpin: [Totoro Cloud - 龙猫云](https://itheo.top/totoro)｜[青云梯](https://itheo.top/qyt)｜[FlyingBird](https://itheo.top/flyingbird)｜[TNT Cloud](https://itheo.top/tnt)｜[飞兔云](https://itheo.top/feitu)｜[奈飞小铺](https://itheo.top/ihezu)｜[银河录像局](https://itheo.top/yh)｜[蜜糖商店](https://itheo.top/metshop)｜[SMS-Activate](https://itheo.top/sms)
+- **Quality airport:** [FlyingBird](https://itheo.top/flyingbird)｜[青云梯](https://itheo.top/qyt)｜[Galaxy Cloud - 银河云](https://itheo.top/yhy)｜[飞兔云](https://itheo.top/feitu)｜[TNT Cloud](https://itheo.top/tnt)｜[Totoro Cloud - 龙猫云](https://itheo.top/totoro)
+- **Sharing platform:** [奈飞小铺](https://itheo.top/ihezu)｜[银河录像局](https://itheo.top/yh)｜[蜜糖商店](https://itheo.top/metshop)
+- **Code receiving platform:** [SMS-Activate](https://itheo.top/sms)
 
 **Sponsors Me**
 
