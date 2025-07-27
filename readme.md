@@ -1,11 +1,5 @@
 ### Hi there, I'm Theo 👋
 
-```
-吾志所向，一往无前。
-```
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
-
 **About Me:**
 | 主&emsp;&emsp;页 | <https://theojs.cn> |
 | :------------: | :------------------------------------------------------- |
