@@ -27,7 +27,7 @@
 **GitHub Stats:**
 
 ![github stats](https://githubcard.com/s-theo.svg?d=Nf-bLN91)
-![Top Langs](https://githubcard.com/s-theo.svg?d=77J1yB6L)
+![Top Langs](https://githubcard.com/s-theo.svg?d=jS7ZnMf9)
 
 - **Quality airport:** [FlyingBird](https://itheo.top/flyingbird)｜[青云梯](https://itheo.top/qyt)｜[Galaxy Cloud - 银河云](https://itheo.top/yhy)｜[TNT Cloud](https://itheo.top/tnt)｜[Totoro Cloud - 龙猫云](https://itheo.top/totoro)｜[小蜜蜂](https://itheo.top/bee)｜[OKANC](https://itheo.top/okanc)｜[星岛梦](https://itheo.top/xdm)｜[hyperlink - 极连云](https://itheo.top/hyperlink)｜[onlyrabbit - 唯兔云](https://itheo.top/onlyrabbit)
 - **Sharing platform:** [奈飞小铺](https://itheo.top/ihezu)｜[银河录像局](https://itheo.top/yh)｜[账号星球](https://itheo.top/acc)
