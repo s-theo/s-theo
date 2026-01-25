@@ -18,9 +18,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
 **About Me:**
-| 主&emsp;&emsp;页 | <https://theojs.cn> |
-| :------------: | :------------------------------------------------------- |
 | **博&emsp;&emsp;客** | **<https://doc.theojs.cn>** |
+| :------------: | :------------------------------------------------------- |
 | **玄学宝典** | **<https://xx.theojs.cn>** |
 | **Lumen** | **<https://lumen.theojs.cn>** |
 
@@ -29,6 +28,3 @@
 - [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://doc.theojs.cn/ai/summary)
 - [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://doc.theojs.cn/serve/code/sms)
 
-**Sponsors Me**
-
-<img src="https://i.theojs.cn/sponsor.webp" alt='Sponsors' />
