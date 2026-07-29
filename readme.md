@@ -17,14 +17,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
-**About Me:**
-| **博&emsp;&emsp;客** | **<https://doc.theojs.net>** |
-| :------------: | :------------------------------------------------------- |
-| **玄学宝典** | **<https://xx.theojs.net>** |
-| **Lumen** | **<https://lumen.theojs.net>** |
-
-- [🔥🔥🔥2026年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.net/serve/airport/summary)
-- [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.net/serve/sharing/account-sharing-guide)
-- [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://doc.theojs.net/ai/summary)
-- [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://doc.theojs.net/serve/code/sms)
 
